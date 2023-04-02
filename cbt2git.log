@@ -1,0 +1,9 @@
+2023-04-02 21:37:47.674738 - Initialized conversion of CBT1007
+2023-04-02 21:37:47.720160 - Received CBT.V504.FILE1007.PDS from FILE1007.XMI 
+2023-04-02 21:37:47.722964 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE1007.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:37:47.723999 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE1007.PDS, moved to PDS/$$NOTE01
+2023-04-02 21:37:47.725039 - Found @FIL1007.txt (text/plain) in CBT.V504.FILE1007.PDS, moved to PDS/@FIL1007
+2023-04-02 21:37:47.726266 - Found ASMJCL.jcl (text/plain) in CBT.V504.FILE1007.PDS, moved to PDS/ASMJCL
+2023-04-02 21:37:47.726282 - Found DATOC.bin containing application/octet-stream, moved to PDS/DATOC
+2023-04-02 21:37:47.728617 - Found DOC.txt (text/plain) in CBT.V504.FILE1007.PDS, moved to PDS/DOC
+2023-04-02 21:37:47.730059 - Found RUNJCL.jcl (text/plain) in CBT.V504.FILE1007.PDS, moved to PDS/RUNJCL
