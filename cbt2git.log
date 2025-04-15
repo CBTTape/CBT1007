@@ -1,8 +1,8 @@
-2025-04-14 23:08:38.601075 - Received CBT.V505.FILE1007.PDS from FILE1007.XMI 
-2025-04-14 23:08:38.602632 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/$$$#DATE
-2025-04-14 23:08:38.602823 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/$$NOTE01
-2025-04-14 23:08:38.602992 - Found @FIL1007.txt (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/@FIL1007
-2025-04-14 23:08:38.603178 - Found ASMJCL.jcl (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/ASMJCL
-2025-04-14 23:08:38.603786 - Found DATOC.bin (application/octet-stream) in CBT.V505.FILE1007.PDS, moved to PDS/DATOC
-2025-04-14 23:08:38.603987 - Found DOC.txt (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/DOC
-2025-04-14 23:08:38.604296 - Found RUNJCL.jcl (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/RUNJCL
+2025-04-15 17:55:35.708937 - Received CBT.V505.FILE1007.PDS from FILE1007.XMI 
+2025-04-15 17:55:35.710015 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/$$$#DATE
+2025-04-15 17:55:35.710340 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/$$NOTE01
+2025-04-15 17:55:35.710418 - Found @FIL1007.txt (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/@FIL1007
+2025-04-15 17:55:35.710626 - Found ASMJCL.jcl (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/ASMJCL
+2025-04-15 17:55:35.711259 - Found DATOC.bin (application/octet-stream) in CBT.V505.FILE1007.PDS, moved to PDS/DATOC
+2025-04-15 17:55:35.711480 - Found DOC.txt (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/DOC
+2025-04-15 17:55:35.711813 - Found RUNJCL.jcl (text/plain) in CBT.V505.FILE1007.PDS, moved to PDS/RUNJCL
